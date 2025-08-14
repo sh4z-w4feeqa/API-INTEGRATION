@@ -1,4 +1,5 @@
-# API-INTEGRATION (NASA Astronomy Picture of the Day)
+# API-INTEGRATION 
+# NASA Astronomy Picture of the Day (NASA APOD)
 
 *COMPANY* : CodTech IT Solutions
 
