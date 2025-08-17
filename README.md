@@ -68,6 +68,17 @@ The Space Explorer project has several real-world applications:
 * Content Inspiration: Artists, photographers, and writers can draw inspiration from stunning images of celestial objects for creative projects.
 * API Learning Resource: Developers can use this project as a reference for learning how to fetch and manipulate API data, handle asynchronous requests, and build dynamic web interfaces.
 
+**Challenges Faced**
+
+* _API Rate Limits:_ The NASA APOD API has request limits, so managing frequent calls and random date fetches without exceeding the quota was important.
+
+* _Asynchronous Data Handling:_ Fetching and displaying images and explanations dynamically required careful handling of promises and async/await.
+
+* _Random Date Generation:_ Ensuring valid dates within the past year and proper formatting for API requests was tricky.
+
+* _Responsive Design:_ Making sure large images and text fit well on various screen sizes without breaking layout felt a little tricky, especially when considering different screen layouts.
+
+
 **Conclusion**
 
 This Space Explorer application demonstrates effective use of HTML, CSS, and JavaScript to create an interactive and educational web experience. By integrating NASA’s APOD API, it provides real-time access to high-quality astronomical content, combining scientific education with visual appeal. The randomization feature encourages exploration, while the clean design ensures usability. This project serves as both a learning tool for web development and a gateway to understanding the wonders of our universe, making it a valuable educational and recreational resource.
