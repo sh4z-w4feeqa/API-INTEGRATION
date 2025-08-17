@@ -47,16 +47,16 @@ The project adheres to modern web standards, ensuring compatibility across brows
 
 **Key Functionalities**
 
-_Daily Astronomy Picture:_
+* _Daily Astronomy Picture:_
 On page load, the application fetches and displays the current day’s APOD. Users can view the image, read the accompanying explanation or facts, and appreciate the scientific context behind each picture.
 
-_Random APOD Generation:_
+* _Random APOD Generation:_
 The “Show Me Another” button allows users to explore random astronomy pictures from the past year. This is achieved by generating a random date and sending it to the API, which returns the corresponding APOD data. This feature encourages discovery and exploration, giving users the excitement of seeing unexpected astronomical phenomena.
 
-_Dynamic Content Display:_
+* _Dynamic Content Display:_
 The application dynamically updates the DOM with new content fetched from the API. This includes the title, image, alt text, and explanation, creating an engaging and interactive user experience.
 
-_User-Friendly Interface:_
+* _User-Friendly Interface:_
 A clean and visually attractive design emphasizes readability and aesthetics. The gradient background evokes the vastness of space, while centered content ensures focus on the images and textual descriptions. The button is prominently displayed for easy access to random content.
 
 **Real-Life Usage and Applications**
