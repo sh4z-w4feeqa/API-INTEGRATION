@@ -23,7 +23,7 @@ As an avid universe and space enthusiast myself, this project resonates deeply w
 
 _HTML5:_
 
-The structure of the web page is built using HTML5. Semantic elements such as <div>, <h1>, <h2>, <p>, <img>, and <button> organize the content meaningfully. The use of <img> and <button> elements allows for dynamic content updates and interactivity.
+The structure of the web page is built using HTML5. Semantic elements such as '<div>', '<h1>', '<h2>', '<p>', '<img>', and '<button>' organize the content meaningfully. The use of '<img>' and '<button>' elements allows for dynamic content updates and interactivity.
 
 _CSS3:_
 
